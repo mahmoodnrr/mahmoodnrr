@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**mahmoodnrr/mahmoodnrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hey, I'm Mahmoud.
+A fullstack engineer experienced in Java, Spring Boot React, Docker and AWS 
+## 🔗 About Me
+- 🧑‍💻 Software engineer at NHS Shared Business Services specializing in building applications for the health organisations 
+- 🎓 Familiar with Java, Spring Boot, Salesforce, React, Docker, and AWS
+- 💬 Open to collaboration, open-source, and working on big projects
+## 📊 GitHub Stats
+!GitHub Stats
+## 🧠 Top Languages
+!Top Languages
